@@ -1,0 +1,21 @@
+<html>
+
+
+
+<body>
+
+    <h1> exemplo de botão </h1>
+    <a  href="https://www.google.com/search?q=golem+&sca_esv=e4e61ca27f8efc23&udm=2&biw=1920&bih=960&ei=_-6ZaPaHJtKo1sQPlfbDsQY&ved=0ahUKEwi2g9C47YKPAxVSlJUCHRX7MGYQ4dUDCBE&uact=5&oq=golem+&gs_lp=EgNpbW">
+        <button> não me abra </button>
+    </a>
+
+</body>
+
+<style>
+
+
+</style>
+
+
+
+</html>
